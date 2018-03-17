@@ -12,7 +12,7 @@
 
 	var urlMap = {
 		"Marcel":		"assets/brfv4_portrait_marcel.jpg",
-		"Chris":		"assets/brfv4_portrait_chris.jpg",
+		"Chris":		"https://seranus.github.io/faceswap-browser/faceswap-browser/dist//assets/trump-small.png",
 		"woman old":	"assets/brfv4_woman_old.jpg",
 		"women young":	"assets/brfv4_women_young.jpg",
 		"Two Faces":	"assets/brfv4_two_faces.jpg",
