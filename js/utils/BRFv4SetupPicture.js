@@ -15,7 +15,8 @@
 		"Chris":		"assets/brfv4_portrait_chris.jpg",
 		"woman old":	"assets/brfv4_woman_old.jpg",
 		"women young":	"assets/brfv4_women_young.jpg",
-		"Two Faces":	"assets/brfv4_two_faces.jpg"
+		"Two Faces":	"assets/brfv4_two_faces.jpg",
+		"Trump":        "https://seranus.github.io/faceswap-browser/faceswap-browser/dist//assets/trump-small.png"
 	};
 	var labels = [];
 	for (var key in urlMap) { labels.push(key); } // Fill in the labels.
