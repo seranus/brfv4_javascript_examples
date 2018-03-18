@@ -16,7 +16,11 @@
 		"woman old":	"assets/brfv4_woman_old.jpg",
 		"women young":	"assets/brfv4_women_young.jpg",
 		"Two Faces":	"assets/brfv4_two_faces.jpg",
-		"Trump":        "https://seranus.github.io/faceswap-browser/faceswap-browser/dist//assets/trump-small.png"
+		"Trump":        "https://seranus.github.io/faceswap-browser/faceswap-browser/dist//assets/trump-small.png",
+		"Trump1":        "assets/trump1.jpg",
+		"Trump2":        "assets/trump2.jpg",
+		"Trump3":        "assets/trump3.jpg",
+		"Trump4":        "assets/trump4.jpg",
 	};
 	var labels = [];
 	for (var key in urlMap) { labels.push(key); } // Fill in the labels.
